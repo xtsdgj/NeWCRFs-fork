@@ -1,0 +1,4 @@
+--dataset nyu
+--checkpoint_path /home/xt/PycharmProjects/NeWCRFs/pretrained/model_nyu.ckpt
+--max_depth 10
+--video video.mp4
